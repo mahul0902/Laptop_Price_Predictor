@@ -1,0 +1,27 @@
+# Node.js dependencies
+backend/node_modules/
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build files
+frontend/build/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
